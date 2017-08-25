@@ -3,8 +3,12 @@
 <p align="center">A curated list of cool libraries that play well with Haskell.do.</p>
 <p align="center" href="https://github.com/sindresorhus/awesome"><a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></a></p>
 
+## Table of content
 
+* [Plotting](#plotting)
 
+## Plotting
 
+Libraries that help plotting within Haskell.do
 
-
+* [PlotlyHS](https://hackage.haskell.org/package/plotlyhs) - You can see some examples [here](https://glutamate.github.io/plotlyhs/)
